@@ -6,6 +6,7 @@ f(9527) => "9,527", f(3345678) => "3,345,678", f(-1234.45) => "-1,234.45"
 ```
 ### Answer:
 solution1.py
+
 unittest_for_solution1.py
 
 ### 2. Please implement a pipe function in a language that you are good at. The function parameter is of indefinite length, the first parameter is a variable of any type, and the following parameter is the function pointer. Please attach unit test.
@@ -17,6 +18,7 @@ pipe(5, increment) => 6, pipe(5, increment, increment, increment) => 8
 ```
 ### Answer:
 solution2.py
+
 unittest_for_solution2.py
 
 ### 3. With the expansion of business, the number of website users is increasing. The original data table has grown to the point where it is very slow to read and write data. Please describe how you will handle this from the two aspects of reading and writing.
