@@ -1,0 +1,11 @@
+both:
+Use Distributed database
+Use web layer and web segmentation
+read:
+Use cache to save data which usually request by users
+Use CDN to response some static data to users
+write:
+Asynchronous method to increase speed
+write in queue first
+Use Redis or NoSQL to save
+Use Hadoop or MapReduce to distributed calculate
