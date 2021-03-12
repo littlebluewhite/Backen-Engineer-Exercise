@@ -1,6 +1,6 @@
 both:
 Use Distributed database
-Use web layer and web segmentation
+Use web layered system and web segmentation
 read:
 Use cache to save data which usually request by users
 Use CDN to response some static data to users
